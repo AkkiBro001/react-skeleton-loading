@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AkkiBro001/react-skeleton-loading.git/static/css/main.25069b18.css",
-    "main.js": "/AkkiBro001/react-skeleton-loading.git/static/js/main.65236ab0.js",
-    "index.html": "/AkkiBro001/react-skeleton-loading.git/index.html",
-    "main.25069b18.css.map": "/AkkiBro001/react-skeleton-loading.git/static/css/main.25069b18.css.map",
-    "main.65236ab0.js.map": "/AkkiBro001/react-skeleton-loading.git/static/js/main.65236ab0.js.map"
+    "main.css": "/react-skeleton-loading/static/css/main.25069b18.css",
+    "main.js": "/react-skeleton-loading/static/js/main.65236ab0.js",
+    "index.html": "/react-skeleton-loading/index.html",
+    "main.25069b18.css.map": "/react-skeleton-loading/static/css/main.25069b18.css.map",
+    "main.65236ab0.js.map": "/react-skeleton-loading/static/js/main.65236ab0.js.map"
   },
   "entrypoints": [
     "static/css/main.25069b18.css",
