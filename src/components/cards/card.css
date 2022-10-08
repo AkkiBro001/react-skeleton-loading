@@ -1,0 +1,24 @@
+.card{
+    padding: 1em;
+    background: #444;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    min-width: 18rem;
+}
+
+.card .img{
+    width: 75px;
+    height: 75px;
+    background: #aaa;
+    margin: 0 auto 0.75em;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.8);
+    overflow: hidden;
+}
+
+
+
+.card h2{
+    margin-bottom: 0.25em;
+}
